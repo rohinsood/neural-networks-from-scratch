@@ -1,0 +1,8 @@
+pandas
+matplotlib
+scikit-learn
+tensorflow
+nnfs
+numpy
+matplotlib
+tensorflow_datasets
