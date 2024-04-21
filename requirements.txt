@@ -6,3 +6,4 @@ nnfs
 numpy
 matplotlib
 tensorflow_datasets
+BioPython
