@@ -3,7 +3,7 @@ A collection of neural networks created from scratch for a deeper understanding 
 <br/>
 
 - Install dependencies:
-  ```cmd
+  ```sh
   pip --default-timeout=100 install -r requirements.txt
   ````
 
