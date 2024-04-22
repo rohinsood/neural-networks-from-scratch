@@ -12,7 +12,7 @@ from activation_relu import activation_ReLU
 from softmax_loss_cat_cross import Activation_Softmax_CategoricalCrossEntropy
 
 #import adam optimizer
-from optimizer_Adam import Optimizer_Adam
+from optimizer_adam import Optimizer_Adam
 
 #import layer
 from layer_dense import Layer
